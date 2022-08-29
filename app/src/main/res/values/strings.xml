@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KFP_Midterm</string>
+    <string name="number_records_label">No. of Records</string>
+    <string name="total_expenses_label">Total Expenses</string>
+    <string name="expenses_summary_button_label">Expenses Summary</string>
+    <string name="add_expenses_button_label">Add Expenses</string>
+
+    <string name="expenses_fragment_title">Expenses</string>
+    <string name="add_expense_fragment_title">Add New Expense</string>
+    <string name="category_fragment_title">Pick Category</string>
+    <string name="summary_fragment_title">Expenses Summary</string>
+
+    <string name="name_label">Name: </string>
+    <string name="amount_label">Amount: </string>
+    <string name="date_label">Date: </string>
+    <string name="category_label">Category: </string>
+    <string name="name_hint_text">Expense Name</string>
+    <string name="amount_hint_text">Expense Amount</string>
+    <string name="placeholder">None</string>
+    <string name="set_date_button_label">Set Date</string>
+    <string name="pick_category_button_label">Pick Category</string>
+
+    <string name="submit_button_label">Submit</string>
+    <string name="cancel_button_label">Cancel</string>
+</resources>
